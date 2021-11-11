@@ -8,7 +8,7 @@ export class Contents extends Component {
     return (
       <div className="contents">
         <div className="content-header">
-          <h3>{contents.title}</h3>
+          <p>{contents.title}</p>
         </div>
 
         <div className="content-container">
