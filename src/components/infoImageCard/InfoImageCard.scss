@@ -1,0 +1,19 @@
+@import "../../_globalColor";
+
+.info-image {
+  border: 10px solid $headerBackground;
+  float: left;
+  width: 100%;
+
+  max-width: 180px;
+  height: auto;
+  margin: 0 15px 0 0;
+}
+
+@media screen and (max-width: 600px) {
+  .info-image {
+    border: 5px solid $headerBackground;
+    max-width: 100px;
+    margin: 0 8px 15px 0;
+  }
+}

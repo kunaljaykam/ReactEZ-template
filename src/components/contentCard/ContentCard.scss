@@ -1,0 +1,59 @@
+.content-card {
+  hyphens: auto;
+  word-wrap: break-word;
+  display: flow-root;
+  margin-top: 1rem;
+}
+
+.thumbnail {
+  float: left;
+  width: 255px;
+  min-height: 141px;
+}
+
+.content-info {
+  margin-left: 18rem;
+}
+
+@media (max-width: 708px) {
+  .content-card {
+    margin-top: 0;
+  }
+
+  .thumbnail {
+    float: none;
+    max-width: 304px;
+    margin-bottom: 1rem;
+  }
+
+  .content-info {
+    margin-left: 0;
+  }
+}
+
+.content-title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.content-links {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-decoration-line: underline;
+
+  color: #c9c9c9;
+  margin: 0 0.5rem 1rem 0;
+}
+
+.content-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.9rem;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+}

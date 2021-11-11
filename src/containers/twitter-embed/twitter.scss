@@ -1,0 +1,45 @@
+@import "../../_globalColor";
+
+.centerContent {
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.tw-main-div {
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  width: auto;
+  padding: 1.5rem;
+}
+.twitter-component {
+  width: 30%;
+  padding: 1.5rem;
+}
+
+.timeline-Header-title {
+  font-size: 56px;
+  font-weight: 100 !important;
+}
+
+.timeline-tweet {
+  background-color: $background !important;
+  font-size: 10px !important;
+}
+
+.SandboxRoot .env-bp-660 .timeline-Tweet-text {
+  font-size: 0.07rem !important;
+  font-weight: 100 !important;
+}
+
+.SandboxRoot.env-bp-660 .timeline-Tweet-text {
+  font-size: 0.07rem !important;
+  font-weight: 100 !important;
+}
+
+.SandboxRoot.env-bp-970 .timeline-Tweet-text {
+  font-size: 17px !important;
+  font-weight: 100 !important;
+}

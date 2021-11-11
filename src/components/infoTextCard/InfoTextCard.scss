@@ -1,0 +1,49 @@
+@import "../../_globalColor";
+.info-text-container {
+  margin-left: 2%;
+  display: block;
+  hyphens: auto;
+  word-wrap: break-word;
+  line-height: normal;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: 900;
+  margin-top: -4px;
+}
+
+.title2 {
+  color: #c9c9c9;
+  margin-left: 4px;
+  font-size: 1rem;
+  margin-top: -4px;
+}
+
+.bio {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.9rem;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+  margin-top: -1rem;
+}
+
+.sub-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.info-links {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+
+  letter-spacing: 0.01em;
+  text-decoration-line: underline;
+
+  color: #c9c9c9;
+  margin-left: 0.5rem;
+}
