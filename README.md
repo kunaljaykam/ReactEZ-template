@@ -1,8 +1,6 @@
-
 # Dr. Chuck (Web)
 
-To update the website(info/contents) just change the `src/DrChuck.js` file. Customize the colors globally in the `src/_globalColor.scss` file. 
-
+To update the website(info/contents) just change the `src/DrChuck.js` file. Customize the colors globally in the `src/_globalColor.scss` file.
 
 ## Website Section
 
@@ -10,8 +8,6 @@ To update the website(info/contents) just change the `src/DrChuck.js` file. Cust
 - (SubInfo) Important Works by Dr. Chuck with links
 - (Content) Most Important works by Dr. Chuck with thumbnail, title, links and description.
 - (Pages) More About Dr. Chuck
-
-   
 
 ## Installation
 
@@ -25,8 +21,8 @@ npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
 
-
 ### How To use
+
 ```bash
 # Clone this repository
 git clone https://github.com/kunaljaykam/dr-chuck
@@ -41,11 +37,9 @@ npm install
 npm start
 ```
 
-
-    
 ## To do
 
 - Create a pages
-- Integerate Blog
-- Optimize the code-base for easy maintainblity
+- Integrate Blog
+- Optimize the code-base for easy maintainability
 - more for later
