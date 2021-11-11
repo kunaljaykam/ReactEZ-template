@@ -18,10 +18,12 @@ export class Contents extends Component {
                 <ContentCard
                   key={index}
                   content={{
-                    url: content.url,
+                    
                     thumbnail: content.thumbnail,
                     title: content.title,
-                    description: content.description
+                    description: content.description,
+                    videoLink: content.videoLink,
+                    websiteLink: content.websiteLink,
                   }}
                 />
               );
