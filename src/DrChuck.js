@@ -197,6 +197,15 @@ const contents = {
       websiteLink: "https://www.wa4e.com/",
       description:
         "This beginner's course is a complete introduction to web application development. Learn how to build dynamic database-backed web sites. Dr. Chuck will teach you how to use HTML, CSS, JavaScript, PHP, MySQL, jQuery, and Handlebars to build web and database applications."
+    },
+    {
+      title:
+        "C Programming for Everybody Full Course - by Dr. Chuck",
+      thumbnail: require("./assets/thumbnails/c-thumbnail.jpeg"),
+      videoLink: "https://www.cc4e.com",
+      websiteLink: "https://www.cc4e.com",
+      description:
+        "C Programming A Historical Perspective, This course is dedicated to understanding computer architecture and low-level programming by studying the 'classic' version of the C Programming language from the 1978 book written by Brian Kernighan and Dennis Ritchie.."
     }
   ]
 };
