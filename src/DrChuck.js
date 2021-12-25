@@ -167,7 +167,7 @@ const info = {
 
 
 
-// ccontents section
+// contents section
 
 const contents = {
   title: "Free Courses & Educational Material",
@@ -197,6 +197,15 @@ const contents = {
       websiteLink: "https://www.wa4e.com/",
       description:
         "This beginner's course is a complete introduction to web application development. Learn how to build dynamic database-backed web sites. Dr. Chuck will teach you how to use HTML, CSS, JavaScript, PHP, MySQL, jQuery, and Handlebars to build web and database applications."
+    },
+    {
+      title:
+        "Internet History, Technology, and Security - Full Course from Dr. Chuck ",
+      thumbnail: require("./assets/thumbnails/Internet-history-dr-chuck.webp"),
+      videoLink: "https://www.youtube.com/watch?v=47NRaBVxgVM",
+      websiteLink: ": https://ihts.pr4e.com/",
+      description:
+        "Learn about the history of the Internet. In this course you will learn how the Internet was created, who created it, and how it works. Along the way you will meet many of the innovators who developed the Internet and Web technologies that we use today."
     },
     {
       title:
