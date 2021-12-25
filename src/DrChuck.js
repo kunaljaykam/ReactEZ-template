@@ -203,7 +203,7 @@ const contents = {
         "Internet History, Technology, and Security - Full Course from Dr. Chuck ",
       thumbnail: require("./assets/thumbnails/Internet-history-dr-chuck.webp"),
       videoLink: "https://www.youtube.com/watch?v=47NRaBVxgVM",
-      websiteLink: ": https://ihts.pr4e.com/",
+      websiteLink: "https://ihts.pr4e.com/",
       description:
         "Learn about the history of the Internet. In this course you will learn how the Internet was created, who created it, and how it works. Along the way you will meet many of the innovators who developed the Internet and Web technologies that we use today."
     },
