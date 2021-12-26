@@ -37,6 +37,10 @@ npm install
 npm start
 ```
 
+## Deploy
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/kunaljaykam/DrChuck"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
+
 ## To do
 
 - Create a pages
