@@ -53,8 +53,9 @@ function Header() {
             href="https://twitter.com/drchuck/"
             target="_blank"
             rel="noreferrer noopener"
+            className="twitter-button"
           >
-            Twitter
+            twitter
           </a>
         </li>
       </ul>
